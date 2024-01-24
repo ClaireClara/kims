@@ -1,0 +1,27 @@
+ul{
+            margin: 0;
+            padding: 0;
+            list-style-type: none;
+        }
+        li{
+            float: left;
+        }
+        li a{
+            background-color: saddlebrown;
+            text-decoration: none;
+            text-align: center;
+            padding: 10px;
+            color: white;
+        }
+        li a{
+            text-decoration-color: white;
+            font-family: "Courier 10 Pitch";
+            display: block;
+        }
+        li a:hover{
+            background-color: black;
+        }
+
+
+
+
